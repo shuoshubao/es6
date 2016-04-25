@@ -1,0 +1,25 @@
+{
+  "gitbook": "2.x.x",
+  "title": "ES6入门指南",
+  "description": "ES6入门指南 - 电子书",
+  "isbn": "978-3-16-148410-0",
+  "language": "en",
+  "direction": "ltr",
+  "structure": {
+    "readme": "README.md"
+  },
+  "variables": {
+    "myTest": "Hello World"
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "sty  les/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "pdf": {
+    "headerTemplate": "Header of the PDF with _TITLE_",
+    "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+  }
+}
